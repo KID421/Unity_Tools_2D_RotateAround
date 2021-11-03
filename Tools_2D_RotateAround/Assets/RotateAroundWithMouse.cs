@@ -13,7 +13,7 @@ namespace KID.Tools
         /// <summary>
         /// 滑鼠在世界空間的座標，Z 軸與要旋轉物件相同
         /// </summary>
-        public Vector3 positionMouse
+        private Vector3 positionMouse
         {
             get
             {
