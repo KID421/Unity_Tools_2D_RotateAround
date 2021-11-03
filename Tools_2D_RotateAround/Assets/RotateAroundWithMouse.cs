@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace KID
+namespace KID.Tools
 {
     /// <summary>
     /// 根據滑鼠座標旋轉物件
