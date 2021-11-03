@@ -16,7 +16,7 @@
 3. [程式](./Tools_2D_RotateAround/Assets/RotateAroundWithMouse.cs)
  將連結內的 C# 放在 1. 圓圈物件上，欄位請設定為圓圈物件
 
-![完成效果](./tutorial1.png)
+![完成效果](./tutorial2.png)
 
 ps. 圓圈為中心點，鑽石會以圓圈為中心點根據滑鼠旋轉，可將圓圈圖片刪除
 
